@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 😄 Pronouns: she/her/they\
-🔭 I’m currently working on a research project [mapping the landscape of Trust & Safety tools and open source technology](https://igp.sipa.columbia.edu/news/institute-global-politics-columbia-sipa-will-house-new-trust-and-safety-tooling-consortium)!\
+🔭 I’m the head of product for [ROOST (Robust Open Online Safety Tools](https://roost.tools/)!\
 👯 I’m looking to collaborate on open source Trust & Safety tooling\
 💬 Ask me about Trust & Safety / bad stuff on the internet\
 📫: juliet@shensafety.com
